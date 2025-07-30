@@ -1,16 +1,5 @@
-<!--
- * @Description:
- * @Author: 笙痞77
- * @Date: 2025-01-13 17:44:07
- * @LastEditors: 笙痞77
- * @LastEditTime: 2025-05-06 16:01:09
--->
 
-# 教程
 
-如有需要《Cesium 从入门到实战》教程的请 + 微信：brown_7778 课程 V1.0 版本已完结，详情请戳：https://ww7rybwvygd.feishu.cn/docx/PG1TdAhK0oASyZxluGqciO7BnSg
-
-可以优先锁定早鸟价格，后续会阶梯式涨价！
 
 # Vue 3 + Vite
 
